@@ -7,17 +7,17 @@ Pequeña aplicación para probar la libería [openai](https://platform.openai.co
 Generar nuevo entorno virtual
 
 ```bash
-    virtualenv .env-openai
+virtualenv .env-openai
 ```
 
 ```bash
-    source ./.env-openai/bin/activate
+source ./.env-openai/bin/activate
 ```
 
 Instalar dependencias
 
 ```bash
-    pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Uso
