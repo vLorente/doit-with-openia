@@ -1,2 +1,3 @@
 openia
 python-dotenv
+"typer[all]"
