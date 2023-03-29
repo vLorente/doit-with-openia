@@ -1,29 +1,29 @@
 # Mi primera aplicación con ChatGPT
 
-    Pequeña aplicación para probar la libería [openai](https://platform.openai.com/docs/api-reference/introduction)
+Pequeña aplicación para probar la libería [openai](https://platform.openai.com/docs/api-reference/introduction)
 
 ## Inicializar
 
-    Generar nuevo entorno virtual
+Generar nuevo entorno virtual
 
-    ```bash
-        virtualenv .env-openai
-    ```
+```bash
+    virtualenv .env-openai
+```
 
-    ```bash
-        source ./.env-openai/bin/activate
-    ```
+```bash
+    source ./.env-openai/bin/activate
+```
 
-    Instalar dependencias
+Instalar dependencias
 
-    ```bash
-        pip install -r requirements.txt
-    ```
+```bash
+    pip install -r requirements.txt
+```
 
 ## Uso
 
-    El usuario introduce por consola su pregunta a ChatGPT y se le dará un respuesta por consola generada por ChatGPT.
+El usuario introduce por consola su pregunta a ChatGPT y se le dará un respuesta por consola generada por ChatGPT.
 
 ## Salida
 
-    Para finalizar el proceso el usuario deberá introducir "adios"
+Para finalizar el proceso el usuario deberá introducir "adios"
